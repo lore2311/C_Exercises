@@ -1,0 +1,3 @@
+C:/Users/Braco/CLionProjects/Ex_4_Variant/cmake-build-debug/CMakeFiles/Ex_4_Variant.dir
+C:/Users/Braco/CLionProjects/Ex_4_Variant/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Braco/CLionProjects/Ex_4_Variant/cmake-build-debug/CMakeFiles/rebuild_cache.dir
