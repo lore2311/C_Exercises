@@ -1,0 +1,7 @@
+# ninja log v5
+7	82	7175010947192642	CMakeFiles/Ex_2.dir/Es2.c.obj	58f1dcb3206d7a47
+2	67	7175011590385963	CMakeFiles/Ex_2.dir/main.c.obj	79bacc5a3b67cd78
+67	157	7175011591250885	Ex_2.exe	c8daa0c823a53a0f
+0	118	7175026051976561	build.ninja	2d7fd2addabe6d2a
+2	68	7175026251410607	CMakeFiles/Ex_2.dir/main.c.obj	79bacc5a3b67cd78
+68	167	7175026252368044	Ex_2.exe	cdf595ddb413a52e
